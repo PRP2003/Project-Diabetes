@@ -2,7 +2,7 @@
   
 ## Overview
 
-This project focuses on developing and deploying a diabetes prediction model using machine learning techniques. The notebook explores data preprocessing, model selection, and evaluation, aiming to create an effective classifier for predicting diabetes based on medical and demographic data.
+This project focuses on developing a diabetes prediction model using machine learning techniques. The notebook explores data preprocessing, model selection, and evaluation, aiming to create an effective classifier for predicting diabetes based on medical and demographic data.
 
 ## Dataset
 
